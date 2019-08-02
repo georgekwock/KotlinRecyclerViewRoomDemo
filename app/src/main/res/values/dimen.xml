@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_general">8dp</dimen>
+    <dimen name="padding_general">8dp</dimen>
+    <dimen name="margin_fab">16dp</dimen>
+    <dimen name="button_size">48dp</dimen>
+    <dimen name="item_margin">30dp</dimen>
+    <dimen name="icon_size">30dp</dimen>
+    <dimen name="margin_list">64dp</dimen>
+</resources>
